@@ -1,0 +1,7 @@
+contact_id,raw_email,raw_city
+1, Alice@Example.com , atlanta 
+2,alice@example.com,Atlanta
+3,,  
+4,BOB@EXAMPLE.COM,Chicago
+5, bob@example.com , chicago
+6,invalid-address,Seattle

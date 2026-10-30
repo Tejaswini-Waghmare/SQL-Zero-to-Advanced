@@ -1,0 +1,13 @@
+product_id,product_name,category,list_price
+1,Laptop,Electronics,899
+2,Headphones,Electronics,79
+3,Desk,Home,210
+4,Lamp,Home,35
+5,Sneakers,Fashion,95
+6,Jacket,Fashion,130
+7,Coffee,Grocery,14
+8,Tea,Grocery,12
+9,Monitor,Electronics,230
+10,Chair,Home,175
+11,Backpack,Fashion,65
+12,Water Bottle,Home,22
